@@ -1,0 +1,9 @@
+{
+  "main_app/tests/test_views.py::test_basket": true,
+  "main_app/tests/test_views.py::test_category": true,
+  "main_app/tests/test_views.py::test_example": true,
+  "main_app/tests/test_views.py::test_main_page": true,
+  "main_app/tests/test_views.py::test_products": true,
+  "main_app/tests/test_views.py::test_users": true,
+  "main_app/tests/test_views.py::tests": true
+}
